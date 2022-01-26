@@ -12,7 +12,7 @@ export default {
 
 <style scoped>
 p{
-margin: 20px auto;
+margin: 30px;
 color: rgb(0, 0, 0);
 font-size: 21px;
 font-weight: bold;
